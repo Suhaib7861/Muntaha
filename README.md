@@ -1,3 +1,3 @@
 # CEO OF COMPANY
-<br>Sidratul Muntaha</br>
-<h1>Muntaha Suhaib Shaikh</h1>
+<br><h1>Sidratul Muntaha</h1></br>
+<h1>Muntaha Shaikh</h1>
